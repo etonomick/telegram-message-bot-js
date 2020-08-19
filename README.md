@@ -1,7 +1,7 @@
-# telegram-message-bot-js
+# telegram-message-bot
 Send messages to channels.
 ## Installation
-$ npm install telegram-message-bot-js
+$ npm install telegram-message-bot
 ## Usage
 Load module.
 ```javascript

@@ -1,6 +1,6 @@
 {
   "name": "telegram-message-bot",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Send messages to channels.",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,9 @@
     "channel"
   ],
   "author": "Valery Stepanov <etonomick@gmail.com>",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/etonomick/telegram-message-bot-js.git"
+  },
   "license": "ISC"
 }
