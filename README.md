@@ -5,7 +5,7 @@ $ npm install telegram-message-bot
 ## Usage
 Load module.
 ```javascript
-const TelegramMessageBot = require('telegram-message-bot-js')
+const TelegramMessageBot = require('telegram-message-bot')
 ```
 Initialize with your bot token.
 ```javascript
